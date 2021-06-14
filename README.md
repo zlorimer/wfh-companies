@@ -1,6 +1,6 @@
-## Work from Home Companies List
+# Work from Home Companies List
 
-# This is a list of companies that have one of the following:
+## This is a list of companies that have one of the following:
 - Fully remote (100%) positions
 - Remote option (not hybrid) positions
 
