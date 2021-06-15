@@ -23,10 +23,12 @@
 | Cimpress  | | |
 | Coinbase  | | |
 | Cribl  | | |
+| Crowdstrike | | |
 | Dell  | | |
 | Deloitte  | | |
 | Deutsche Bank  | | |
 | Doximity  | | |
+| Dragos | | |
 | Drift  | | |
 | Dropbox  | | |
 | Facebook  | | |
